@@ -7,7 +7,7 @@ Listado de Trabajos de Sistemas de Representación Avanzada
 - [p4 artist](https://fatimaarsismartinez.github.io/p4-artist/)
 - [p5 tarjetes](https://fatimaarsismartinez.github.io/p5-tarjetes/.)
 - [p6 grid]()
-- [p7 landingpage]()
+- [p7 landingpage](https://fatimaarsismartinez.github.io/p7-landingpage/.)
 - [p8 mondrian]()
 - [p9 minimalissimo]()
 - [p10 img_trocejada]()
